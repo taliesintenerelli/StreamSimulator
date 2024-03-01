@@ -1,4 +1,4 @@
-# StreamSimulatorCPP: Streaming Service Simulation
+# StreamSimulator: Streaming Service Simulation
 
 ## Project Overview
 StreamSimulatorCPP is an academic project simulating a streaming service, similar to Netflix or Hulu, developed from scratch. This C++ application implements object-oriented programming principles to emulate real-world streaming service functionalities.
